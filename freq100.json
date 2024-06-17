@@ -1,0 +1,806 @@
+{
+  "EVM": {
+    "Calls": [
+      {
+        "Transaction": {
+          "From": "0x269d3096e5334621f5e670a72d326b439eb630ca",
+          "ValueInUSD": "40821.54846191406"
+        },
+        "sum": "16736834.869384766",
+        "tx_count": "410"
+      },
+      {
+        "Transaction": {
+          "From": "0x80d87f36fe9ac8776c70832bf6bb70332c0c8509",
+          "ValueInUSD": "38698.80065917969"
+        },
+        "sum": "14279857.443237305",
+        "tx_count": "369"
+      },
+      {
+        "Transaction": {
+          "From": "0x861ebe85242b027c90b9ba201edb8c1443859629",
+          "ValueInUSD": "120.7049560546875"
+        },
+        "sum": "39591.2255859375",
+        "tx_count": "328"
+      },
+      {
+        "Transaction": {
+          "From": "0x80d87f36fe9ac8776c70832bf6bb70332c0c8509",
+          "ValueInUSD": "39475.567626953125"
+        },
+        "sum": "11329487.908935547",
+        "tx_count": "287"
+      },
+      {
+        "Transaction": {
+          "From": "0x668d6b7ab84a9ae4a73b6e2121607799ebdf8ba1",
+          "ValueInUSD": "59289.984130859375"
+        },
+        "sum": "17016225.44555664",
+        "tx_count": "287"
+      },
+      {
+        "Transaction": {
+          "From": "0x8228ee90ef79e77375b6fa5814bdf984eb8a2a5b",
+          "ValueInUSD": "59584.86328125"
+        },
+        "sum": "17100855.76171875",
+        "tx_count": "287"
+      },
+      {
+        "Transaction": {
+          "From": "0x079667f4f7a0b440ad35ebd780efd216751f0758",
+          "ValueInUSD": "58556.982421875"
+        },
+        "sum": "16805853.955078125",
+        "tx_count": "287"
+      },
+      {
+        "Transaction": {
+          "From": "0x9b4c75ce8d7006620df39e8757ade75d6434a6fe",
+          "ValueInUSD": "37158.48083496094"
+        },
+        "sum": "10664483.999633789",
+        "tx_count": "287"
+      },
+      {
+        "Transaction": {
+          "From": "0xafd8b163efc6cafb25d115e5cd61ceb38522de97",
+          "ValueInUSD": "34764.92614746094"
+        },
+        "sum": "9977533.804321289",
+        "tx_count": "287"
+      },
+      {
+        "Transaction": {
+          "From": "0x079667f4f7a0b440ad35ebd780efd216751f0758",
+          "ValueInUSD": "58556.982421875"
+        },
+        "sum": "14405017.67578125",
+        "tx_count": "246"
+      },
+      {
+        "Transaction": {
+          "From": "0x2d8304750a8ac17dc1b9a5da1c85c0a55f12c3d3",
+          "ValueInUSD": "3773.7420654296875"
+        },
+        "sum": "928340.5480957031",
+        "tx_count": "246"
+      },
+      {
+        "Transaction": {
+          "From": "0x0714d3850e38f72e2ac302417ea64d8d24b527f3",
+          "ValueInUSD": "1279.59716796875"
+        },
+        "sum": "314780.9033203125",
+        "tx_count": "246"
+      },
+      {
+        "Transaction": {
+          "From": "0xfcc65817d395121fbc67789dba0f22814fda0d34",
+          "ValueInUSD": "3427.9013061523438"
+        },
+        "sum": "843263.7213134766",
+        "tx_count": "246"
+      },
+      {
+        "Transaction": {
+          "From": "0x25f681e59c1ea97922c3cbee3692c4fb79f5578b",
+          "ValueInUSD": "44.04622192382813"
+        },
+        "sum": "9029.475494384747",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x6cea9591a430f52f735ec6f90f1e30062b3277f8",
+          "ValueInUSD": "37149.359130859375"
+        },
+        "sum": "7615618.621826172",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x9b4c75ce8d7006620df39e8757ade75d6434a6fe",
+          "ValueInUSD": "35715.91796875"
+        },
+        "sum": "7321763.18359375",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x92e7fe70be78db0cbc26ed3f4dff11458c3d7533",
+          "ValueInUSD": "3912.5906372070312"
+        },
+        "sum": "802081.0806274414",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0xb313e14ba9a2384a65471a46dca4b6cd1fd37f36",
+          "ValueInUSD": "20671.282958984375"
+        },
+        "sum": "4237613.006591797",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x10194e626c04edc242171889eb610504b63acf97",
+          "ValueInUSD": "21.561206054687503"
+        },
+        "sum": "4420.04724121092",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x31d2575e332737f44516f86068db6e46b2e73b95",
+          "ValueInUSD": "21.53914794921875"
+        },
+        "sum": "4415.525329589835",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x64e6fdd639e1811272fd5b0bc051580e84bf93bc",
+          "ValueInUSD": "37165.838623046875"
+        },
+        "sum": "7618996.917724609",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x079667f4f7a0b440ad35ebd780efd216751f0758",
+          "ValueInUSD": "57289.300537109375"
+        },
+        "sum": "11744306.610107422",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x905315602ed9a854e325f692ff82f58799beab57",
+          "ValueInUSD": "213503.515625"
+        },
+        "sum": "43768220.703125",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x0714d3850e38f72e2ac302417ea64d8d24b527f3",
+          "ValueInUSD": "1279.59716796875"
+        },
+        "sum": "262317.41943359375",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x7459cf03d3f4ae370d19bb7a19220323e6441e5e",
+          "ValueInUSD": "17.084455871582033"
+        },
+        "sum": "3502.3134536743287",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0x92ee7103cee2a710a0659b8a2f359ff81e050154",
+          "ValueInUSD": "3899.7979736328125"
+        },
+        "sum": "799458.5845947266",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0xbf675c80540111a310b06e1482f9127ef4e7469a",
+          "ValueInUSD": "44497.271728515625"
+        },
+        "sum": "9121940.704345703",
+        "tx_count": "205"
+      },
+      {
+        "Transaction": {
+          "From": "0xa3270d1a43af775e40517308e1fc55a3b827ae4d",
+          "ValueInUSD": "37.97491455078125"
+        },
+        "sum": "6227.885986328125",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x905315602ed9a854e325f692ff82f58799beab57",
+          "ValueInUSD": "213503.515625"
+        },
+        "sum": "35014576.5625",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xb313e14ba9a2384a65471a46dca4b6cd1fd37f36",
+          "ValueInUSD": "20.77766571044922"
+        },
+        "sum": "3407.537176513663",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xbc047609e32df80a6be7ed8fadc887485511b27e",
+          "ValueInUSD": "14.074147033691407"
+        },
+        "sum": "2308.1601135253886",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xd09f1fdff70145f62d3910a9d92fd37e3e03b551",
+          "ValueInUSD": "5841.34033203125"
+        },
+        "sum": "957979.814453125",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xf3a0780c55f00d3dc719b77594a983b9ffbe4531",
+          "ValueInUSD": "3582.6541137695312"
+        },
+        "sum": "587555.2746582031",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x978aad63fe35f7a72573c411c3dff53608aaeac9",
+          "ValueInUSD": "33732.13806152344"
+        },
+        "sum": "5532070.642089844",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xb4d9bdade8cdfd7a7befb7e741348dd23ed048ca",
+          "ValueInUSD": "18.918699645996096"
+        },
+        "sum": "3102.6667419433684",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x64100b3f4386d7e7a30ab6f0c4a2e4f19273e25d",
+          "ValueInUSD": "31499.252319335938"
+        },
+        "sum": "5165877.380371094",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x38d0bde87e0f9e46193feee83a71afee5eab9f22",
+          "ValueInUSD": "2436.0198974609375"
+        },
+        "sum": "399507.26318359375",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x079667f4f7a0b440ad35ebd780efd216751f0758",
+          "ValueInUSD": "56825.50048828125"
+        },
+        "sum": "9319382.080078125",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x6b13114cc2fd1d24c19189d33fe7d4afa9c3d139",
+          "ValueInUSD": "4111.4288330078125"
+        },
+        "sum": "674274.3286132812",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xd968aacabe3a7bdb504fa1b5fb277ecff37114dc",
+          "ValueInUSD": "2068.645477294922"
+        },
+        "sum": "339257.8582763672",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x206e91b7745eefc739537a453bafef79e84ff138",
+          "ValueInUSD": "1358.0517578125"
+        },
+        "sum": "222720.48828125",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x079667f4f7a0b440ad35ebd780efd216751f0758",
+          "ValueInUSD": "56557.31201171875"
+        },
+        "sum": "9275399.169921875",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xb6af7c04f67b5eb61f0dc7ac4a760888ec3e3887",
+          "ValueInUSD": "6472.1307373046875"
+        },
+        "sum": "1061429.4409179688",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x93a9ef9633b839b80df6fd315bb87f363d1eb981",
+          "ValueInUSD": "13.705738830566407"
+        },
+        "sum": "2247.7411682128877",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x64e6fdd639e1811272fd5b0bc051580e84bf93bc",
+          "ValueInUSD": "37628.23791503906"
+        },
+        "sum": "6171031.018066406",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x50d6e3017429d31cb3ca53677a37549887395cf7",
+          "ValueInUSD": "2069.0338134765625"
+        },
+        "sum": "339321.54541015625",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x0f416bc2d310a1c32bc1081cf354c15fd10d4802",
+          "ValueInUSD": "22.11286773681641"
+        },
+        "sum": "3626.5103088379",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x6f5ef04aa52ebd531ca38b742be1f1e143984e2b",
+          "ValueInUSD": "22.98988494873047"
+        },
+        "sum": "3770.3411315917883",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xd968aacabe3a7bdb504fa1b5fb277ecff37114dc",
+          "ValueInUSD": "20683.0810546875"
+        },
+        "sum": "3392025.29296875",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xb77f7bbac3264ae7abc8aedf2ec5f4e7ca079f83",
+          "ValueInUSD": "55555.2490234375"
+        },
+        "sum": "9111060.83984375",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x4b7629c75ac4ee060535338966b09104bd3d1aa8",
+          "ValueInUSD": "22.526918029785158"
+        },
+        "sum": "3694.414556884756",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x74fbcf0c464a2267acf0862eae053436bda2adfe",
+          "ValueInUSD": "3745.545654296875"
+        },
+        "sum": "614269.4873046875",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xb3e7c32d7c328aeabc8f34e90a879326b6482750",
+          "ValueInUSD": "2348.9535522460938"
+        },
+        "sum": "385228.3825683594",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x52af239d8169314c6c1ff51539158e55b65a1a99",
+          "ValueInUSD": "22.776296997070315"
+        },
+        "sum": "3735.312707519536",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x25f681e59c1ea97922c3cbee3692c4fb79f5578b",
+          "ValueInUSD": "43.917483520507815"
+        },
+        "sum": "7202.46729736327",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xb6af7c04f67b5eb61f0dc7ac4a760888ec3e3887",
+          "ValueInUSD": "6632.0526123046875"
+        },
+        "sum": "1087656.6284179688",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x23c98b17743ef687cbab84cef9eca52d4934455a",
+          "ValueInUSD": "3835.052490234375"
+        },
+        "sum": "628948.6083984375",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x9f27f1d2975e9fc82d1ee2a18e1e497a3a8a0358",
+          "ValueInUSD": "54.45243530273438"
+        },
+        "sum": "8930.199389648451",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xe7cdae12fa73e168cdd134410c0d4f82314b7e0e",
+          "ValueInUSD": "1291.1154174804688"
+        },
+        "sum": "211742.92846679688",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0xaee1c28968794ee0eef8a9f3e90f5b3c4d39f6c6",
+          "ValueInUSD": "2429.1549682617188"
+        },
+        "sum": "398381.4147949219",
+        "tx_count": "164"
+      },
+      {
+        "Transaction": {
+          "From": "0x9f27f1d2975e9fc82d1ee2a18e1e497a3a8a0358",
+          "ValueInUSD": "0"
+        },
+        "sum": "0",
+        "tx_count": "153"
+      },
+      {
+        "Transaction": {
+          "From": "0xe75f817e4c72b51c92db569909d6cb3b4b489d83",
+          "ValueInUSD": "18.250750732421874"
+        },
+        "sum": "2244.842340087893",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x272ed7188b74f8c4399330b2d62dc727b8cc9498",
+          "ValueInUSD": "3457.5460815429688"
+        },
+        "sum": "425278.16802978516",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xd8cd5be5fac562c5ce44b231bbc3f497046392d6",
+          "ValueInUSD": "41848.858642578125"
+        },
+        "sum": "5147409.613037109",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x25f681e59c1ea97922c3cbee3692c4fb79f5578b",
+          "ValueInUSD": "43.837371826171875"
+        },
+        "sum": "5391.996734619141",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x0464f791c1c795f4287fa321c304629010193caf",
+          "ValueInUSD": "2104.7927856445312"
+        },
+        "sum": "258889.51263427734",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x2bb3dff86c9945de2e973feca46f57b2ba11d6a8",
+          "ValueInUSD": "14352.838134765625"
+        },
+        "sum": "1765399.0905761719",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x23c98b17743ef687cbab84cef9eca52d4934455a",
+          "ValueInUSD": "4042.8195190429688"
+        },
+        "sum": "497266.80084228516",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x9255b94a75e1cc969d127b421247ea1efdcfbaa1",
+          "ValueInUSD": "34.81602172851563"
+        },
+        "sum": "4282.370672607431",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xefab18983029d2ba840e34698efb67fdf8120711",
+          "ValueInUSD": "21.326960754394534"
+        },
+        "sum": "2623.2161727905304",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x000808bb864ddaa624aeea12a8f671eacb76389f",
+          "ValueInUSD": "3782.1331787109375"
+        },
+        "sum": "465202.3809814453",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x111cb931b41444352b07328188ab064198e7a5cb",
+          "ValueInUSD": "3821.534423828125"
+        },
+        "sum": "470048.7341308594",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x6c56e970f52a3e2d32b5762dbca4cc3a129defb0",
+          "ValueInUSD": "39647.06115722656"
+        },
+        "sum": "4876588.522338867",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x1e7b68483c122d568f71e4091e1f158d15fbc60d",
+          "ValueInUSD": "3375.3579711914062"
+        },
+        "sum": "415169.03045654297",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xcd21b4173b507183c34a563d5785ea9bd203b588",
+          "ValueInUSD": "3510.2639770507812"
+        },
+        "sum": "431762.4691772461",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x6f5ef04aa52ebd531ca38b742be1f1e143984e2b",
+          "ValueInUSD": "23.0576904296875"
+        },
+        "sum": "2836.09592285156",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x246172209f4acdc0d844d0f5cbdb519fee508fa3",
+          "ValueInUSD": "35314.599609375"
+        },
+        "sum": "4343695.751953125",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x9b4c75ce8d7006620df39e8757ade75d6434a6fe",
+          "ValueInUSD": "35715.91796875"
+        },
+        "sum": "4393057.91015625",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x8589427373d6d84e98730d7795d8f6f8731fda16",
+          "ValueInUSD": "37.63107604980469"
+        },
+        "sum": "4628.622354125967",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x10194e626c04edc242171889eb610504b63acf97",
+          "ValueInUSD": "21543.313598632812"
+        },
+        "sum": "2649827.572631836",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x8228ee90ef79e77375b6fa5814bdf984eb8a2a5b",
+          "ValueInUSD": "54684.38720703125"
+        },
+        "sum": "6726179.626464844",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xc62c539a7a6fa03f416f7d284fcc785517a607fb",
+          "ValueInUSD": "46540.68908691406"
+        },
+        "sum": "5724504.75769043",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x5b913fdff95e00da50a65740576a3c189812a16f",
+          "ValueInUSD": "45468.927001953125"
+        },
+        "sum": "5592678.021240234",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xaaf1e9b42cc40476c20f45cc4572b12816ba00ec",
+          "ValueInUSD": "3979.0145874023438"
+        },
+        "sum": "489418.7942504883",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x91f8dde8c2122449fdad87d9d7802d134a597345",
+          "ValueInUSD": "20.32483367919922"
+        },
+        "sum": "2499.9545425415045",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x64e6fdd639e1811272fd5b0bc051580e84bf93bc",
+          "ValueInUSD": "36861.61804199219"
+        },
+        "sum": "4533979.019165039",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x04f42d7b12de8b4b3c5995d0ecfe50c2e62f8f26",
+          "ValueInUSD": "32339.46533203125"
+        },
+        "sum": "3977754.2358398438",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x870859c69bf924c8599aeb9170a64d96d77cd414",
+          "ValueInUSD": "3940.9671020507812"
+        },
+        "sum": "484738.9535522461",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xe067f7df8d1a2418fc84ff2d1c76a115876bdbef",
+          "ValueInUSD": "4012.2311401367188"
+        },
+        "sum": "493504.4302368164",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x892c814daf8fbee5b52d825eb6f4ad22fac763b6",
+          "ValueInUSD": "54527.899169921875"
+        },
+        "sum": "6706931.597900391",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x59dfd93d34dff5d36dedd539425a7d7d2a77b3e5",
+          "ValueInUSD": "3468.3441162109375"
+        },
+        "sum": "426606.3262939453",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x9c5f18bc3ff5418554fad076a754b82a6a9abb8a",
+          "ValueInUSD": "51732.7880859375"
+        },
+        "sum": "6363132.9345703125",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xcfd02c48ab7fe33fc145f7aeadbeafc01075b801",
+          "ValueInUSD": "4427.577209472656"
+        },
+        "sum": "544591.9967651367",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x51940f5f8eb0bf150edd0bc00067d8dabdb16bd6",
+          "ValueInUSD": "1681.8484497070312"
+        },
+        "sum": "206867.35931396484",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x5ccaa831953f32d59856ad579d54c69f19b8f0f3",
+          "ValueInUSD": "32509.930419921875"
+        },
+        "sum": "3998721.4416503906",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xf6b220a6700fc25140208f883e5b0fb7c8fa9d26",
+          "ValueInUSD": "3717.3989868164062"
+        },
+        "sum": "457240.07537841797",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0xed9ca1abac996f04b967bfa7badc971f2f223d0d",
+          "ValueInUSD": "1872.2067260742188"
+        },
+        "sum": "230281.4273071289",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x271b4d406eb14dfbae6c44a50f11f59885caca17",
+          "ValueInUSD": "56208.087158203125"
+        },
+        "sum": "6913594.720458984",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x03cb00d80688acba46f6b9e7eeff274a13226a16",
+          "ValueInUSD": "2349.16748046875"
+        },
+        "sum": "288947.60009765625",
+        "tx_count": "123"
+      },
+      {
+        "Transaction": {
+          "From": "0x2fae4f65e8b759e5fc6e999f4386ca01ae429c3c",
+          "ValueInUSD": "31776.1474609375"
+        },
+        "sum": "3908466.1376953125",
+        "tx_count": "123"
+      }
+    ]
+  }
+}
