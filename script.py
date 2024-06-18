@@ -10,11 +10,25 @@ freq100to1k = json.load(open("freq100to1k.json"))["EVM"]["Calls"]
 freq1kto10k = json.load(open("freq1kto10k.json"))["EVM"]["Calls"]
 freq10kto100k = json.load(open("freq10kto100k.json"))["EVM"]["Calls"]
 
+freqdep100 = json.load(open("freqdep100.json"))["EVM"]["Calls"]
+freqdep100to1k = json.load(open("freqdep100to1k.json"))["EVM"]["Calls"]
+freqdep1kto10k = json.load(open("freqdep1kto10k.json"))["EVM"]["Calls"]
+freqdep10kto100k = json.load(open("freqdep10kto100k.json"))["EVM"]["Calls"]
+
+freqfull = freq100 + freq100to1k + freq1kto10k + freq10kto100k
+freqdepfull = freqdep100 + freqdep100to1k + freqdep1kto10k + freqdep10kto100k
+
 freqsenderset100 = set()
 freqsenderset100to1k = set()
 freqsenderset1kto10k = set()
 freqsenderset10kto100k = set()
 freqsenderset = set()
+
+freqdepositorset100 = set()
+freqdepositorset100to1k = set()
+freqdepositorset1kto10k = set()
+freqdepositorset10kto100k = set()
+freqdepositorset = set()
 
 for i in freq100:
     freqsenderset100.add(i["Transaction"]["From"])
@@ -28,6 +42,19 @@ for i in freq1kto10k:
 for i in freq10kto100k:
     freqsenderset10kto100k.add(i["Transaction"]["From"])
     freqsenderset.add(i["Transaction"]["From"])
+
+for i in freqdep100:
+    freqdepositorset100.add(i["Transaction"]["From"])
+    freqdepositorset.add(i["Transaction"]["From"])
+for i in freqdep100to1k:
+    freqdepositorset100to1k.add(i["Transaction"]["From"])
+    freqdepositorset.add(i["Transaction"]["From"])
+for i in freqdep1kto10k:
+    freqdepositorset1kto10k.add(i["Transaction"]["From"])
+    freqdepositorset.add(i["Transaction"]["From"])
+for i in freqdep10kto100k:
+    freqdepositorset10kto100k.add(i["Transaction"]["From"])
+    freqdepositorset.add(i["Transaction"]["From"])
 
 
 def find_correlation(top_txns, freq_senders, freq_senders_list):
@@ -81,4 +108,32 @@ print("ftd1kto10k", find_correlation(top1kto10k, freqsenderset1kto10k, freq1kto1
 print(
     "ftd10kto100k",
     find_correlation(top10kto100k, freqsenderset10kto100k, freq10kto100k)[:6],
+)
+print("ftd100full", find_correlation(top100, freqsenderset, freqfull)[:6])
+print("ftd100to1kfull", find_correlation(top100to1k, freqsenderset, freqfull)[:6])
+print("ftd1kto10kfull", find_correlation(top1kto10k, freqsenderset, freqfull)[:6])
+print(
+    "ftd10kto100kfull",
+    find_correlation(top10kto100k, freqsenderset, freqfull)[:6],
+)
+
+print("fts100", find_correlation(top100, freqdepositorset100, freqdep100)[:6])
+print(
+    "fts100to1k",
+    find_correlation(top100to1k, freqdepositorset100to1k, freqdep100to1k)[:6],
+)
+print(
+    "fts1kto10k",
+    find_correlation(top1kto10k, freqdepositorset1kto10k, freqdep1kto10k)[:6],
+)
+print(
+    "fts10kto100k",
+    find_correlation(top10kto100k, freqdepositorset10kto100k, freqdep10kto100k)[:6],
+)
+print("fts100", find_correlation(top100, freqdepositorset, freqdepfull)[:6])
+print("fts100to1k", find_correlation(top100to1k, freqdepositorset, freqdepfull)[:6])
+print("fts1kto10k", find_correlation(top1kto10k, freqdepositorset, freqdepfull)[:6])
+print(
+    "fts10kto100k",
+    find_correlation(top10kto100k, freqdepositorset, freqdepfull)[:6],
 )
